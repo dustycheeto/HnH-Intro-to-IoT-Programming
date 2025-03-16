@@ -26,7 +26,7 @@
   </ol>
 </details>
 
-[!([images/Event Photo.jpg](https://github.com/dustycheeto/HnH-Intro-to-IoT-Programming/blob/9b41a5d72af29d38a3729fc5ed8c06151e772682/images/Event%20Photo.jpg)
+[images/Event Photo.jpg](https://github.com/dustycheeto/HnH-Intro-to-IoT-Programming/blob/9b41a5d72af29d38a3729fc5ed8c06151e772682/images/Event%20Photo.jpg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
