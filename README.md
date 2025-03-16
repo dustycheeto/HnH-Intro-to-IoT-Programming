@@ -1,70 +1,31 @@
 <a name="readme-top"></a>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-[images/Event Photo.jpg](https://github.com/dustycheeto/HnH-Intro-to-IoT-Programming/blob/9b41a5d72af29d38a3729fc5ed8c06151e772682/images/Event%20Photo.jpg)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+![](https://github.com/dustycheeto/HnH-Intro-to-IoT-Programming/blob/a13f760c5f5ba8638255745f6894e9df47602d3b/images/Event%20Photo.jpg)
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Overview
+1) Access M5Stack's Web IDE and pair with the M5Stack Core2 
+2) Upload and successfully run your first program
+3) Modify or create your OWN program!
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+### 1) Access M5Stack's Web IDE and pair with the M5Stack Core2 
 
-### Prerequisites
+1. Reference your assigned physical Core2 for it’s API Key (You’ll need this for a future pairing step)
+![](https://github.com/dustycheeto/HnH-Intro-to-IoT-Programming/blob/82a91f45710919c2410e8a53042970f880c3faa9/images/API-Key.HEIC)
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+2. Visit M5Stack’s hosted IDE web server: https://flow.m5stack.com/
+![](insert IDE web server)
 
-### Installation
+3. Open the API connection pairing menu by clicking on “API Key” in the lower left.
+![](Access API key sub menu)
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+4. On this “Setting Menu” input your API Key and select the Core2. (See yellow highlights)
+![](API key sub menu)
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+5. Confirm successful pairing by looking for a Green “Connected” status in the lower left
+![](Connected State)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
